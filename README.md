@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @danicaori
+- 👋 Hi, I’m Danica Orille
 - 👀 I’m interested in UX design and UX research.
 - 🌱 I’m currently learning R Studio and HTML.
 - 💞️ I’m looking to collaborate on any projects.
