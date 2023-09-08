@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Danica Orille
-- 👀 I’m interested in UX design and UX research.
-- 🌱 I’m currently learning R Studio and HTML.
+- 👀 I’m interested in UX and Data Analysis.
+- 🌱 I’m currently learning R Studio and SQL.
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me: danica625@gmail.com
 
